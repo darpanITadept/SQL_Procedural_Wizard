@@ -1,6 +1,6 @@
 # 
 
-# Project Name: SQL_Procedural_Wizard
+# SQL_Procedural_Wizard
 
 ## Overview
 This project demonstrates various Oracle PL/SQL stored procedures to perform essential database operations. These procedures allow you to interact with a relational database, check customer and product existence, add orders, manage order items, and display order details. The README provides an overview of the project and explains how to use the stored procedures.
